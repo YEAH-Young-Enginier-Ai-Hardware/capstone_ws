@@ -1,0 +1,7 @@
+# Synthetic coordinates for illustrating the route format.
+routes:
+  example:
+    frame_id: map
+    waypoints:
+      - {name: start, x: 0.0, y: 0.0, yaw_deg: 0.0}
+      - {name: next, x: 1.0, y: 0.0, yaw_deg: 90.0}
