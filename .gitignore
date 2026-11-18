@@ -1,3 +1,13 @@
+/build/
+/install/
+/log/
 __pycache__/
-**/__pycache__/
 *.pyc
+/local/
+/src/yeah_go2/yeah_bringup/map/
+/src/yeah_go2/glim/map/
+/src/yeah_go2/glim_ros2/map/
+/src/yeah_go2/yeah_bringup/config/waypoints.yaml
+/src/yeah_go2/yeah_bringup/config/recorded_goals.yaml
+/src/yeah_vision/my_safety_pkg/models/*.pt
+/src/yeah_vision/my_safety_pkg/audio/*.mp3

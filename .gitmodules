@@ -1,0 +1,6 @@
+[submodule "src/yeah_vision/realsense-ros"]
+	path = src/yeah_vision/realsense-ros
+	url = https://github.com/IntelRealSense/realsense-ros.git
+[submodule "src/yeah_vision/yolo_ros"]
+	path = src/yeah_vision/yolo_ros
+	url = https://github.com/mgonzs13/yolo_ros.git
